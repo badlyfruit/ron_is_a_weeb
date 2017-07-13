@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install ron_is_a_weeb
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+RonIsAWeeb::Renderer.copyright 'Ron is a weeb', 'Ron is weeb trash'
+```
 
 ## Development
 
